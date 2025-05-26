@@ -45,4 +45,4 @@ spec:
 kubectl apply -f cluster-role.yaml -f application.yaml
 ```
 
-![demo.gif](assets/mvp/demo.gif)
+![demo.gif](../assets/mvp/demo.gif)
